@@ -1,12 +1,12 @@
 ﻿<div align="center">
-  <img src="./banner.svg" alt="Sadam Hussain Safi — Senior Software Engineer & UI/UX Developer" width="100%" />
+  <img src="./banner.svg" alt="Sadam Hussain Safi — Frontend, Backend Developer & AI Engineer" width="100%" />
 </div>
 
 <br/>
 
 ## About
 
-I'm **Sadam Hussain Safi**, a **Senior Software Engineer, UI/UX Developer**, and **Founder & CEO at Aria Tech Solutions**. I build visually polished, user-focused web, desktop, and mobile applications with clean design systems, clear navigation, and scalable full-stack architectures.
+I'm **Sadam Hussain Safi**, a **Frontend Developer, Backend Developer, and AI Engineer**, as well as **Founder & CEO at Aria Tech Solutions**. I engineer scalable full-stack web applications, robust backend architectures, high-performance cross-platform apps, and intelligent AI/NLP systems.
 
 - **Portfolio:** [sadam-hussain-dev.netlify.app](https://sadam-hussain-dev.netlify.app)
 - **Developer Hub:** [sadam-hussain-safi.github.io](https://sadam-hussain-safi.github.io)
@@ -14,24 +14,24 @@ I'm **Sadam Hussain Safi**, a **Senior Software Engineer, UI/UX Developer**, and
 
 ---
 
-## Core Engineering & UI/UX Tech Stack
+## Core Engineering Tech Stack
 
-| Domain | Technologies & Tools |
+| Engineering Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Frontend & UI/UX Design** | React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Responsive Grid Systems, Figma, SEO Optimization |
-| **Cross-Platform & Mobile** | Flutter, Dart, Material Design Systems, Bilingual Localization (English / Pashto) |
-| **Backend & Databases** | Node.js, Express, Python, Java, REST APIs, SQLite / FTS5, Modular Data Access Architecture |
-| **AI & Natural Language Processing** | Sentence-Transformers, Seq2Seq & Attention Models, Machine Translation, AI Support Agents |
-| **DevOps & Workflow** | Git, GitHub Actions, PowerShell Automation, VS Code, Cursor AI |
+| **Frontend Development** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, Responsive Web Apps |
+| **Backend Development** | Node.js, Express, Python, Java, RESTful APIs, Modular Database Architecture, SQLite / FTS5 |
+| **AI & Machine Learning Engineering** | AI Support Agents, Sentence-Transformers (ll-MiniLM-L6-v2), Neural Machine Translation (Pashto/Dari/English), Seq2Seq & Attention Architectures |
+| **Cross-Platform & Mobile** | Flutter, Dart, FEFO Batch Engine, Enterprise POS & Inventory Systems |
+| **DevOps & Tooling** | Git, GitHub Actions, PowerShell Automation, VS Code, Cursor AI |
 
 ---
 
-## Previous Experience & Multi-Disciplinary Skills
+## Professional Experience & Skills
 
-- **Enterprise ERP & Retail Systems Architecture:** Designed and engineered full-stack management platforms including the **WellCare Pharmacy Management System** (FEFO batch sorting engine, POS billing, RBAC, audit logging) and industrial manufacturing ERP workflows for raw material procurement and steel-supply order tracking.
-- **Digital Retouching & Brand Poster Design:** Experienced in visual composition, editorial typography, portrait retouching, and retro-urban brand poster aesthetics—bringing strong graphic design sensibility into software UI/UX.
-- **Medical & Legal Interpretation (Multilingual Communication):** Background as a freelance medical and legal interpreter, providing direct domain expertise in building accurate multilingual software and translation systems (Pashto / Dari / English).
-- **Software Project Management & Algorithms:** Strong foundation in COCOMO II estimation, risk management, dynamic programming, and clean object-oriented database abstraction.
+- **Full-Stack & Backend Systems Architecture:** Built enterprise-grade applications such as the **WellCare Pharmacy Management System** featuring optimized SQLite database layers, audit logging, role-based access control, and FEFO batch sorting engines.
+- **AI & NLP Integration:** Developed custom local voice-enabled AI assistants (JARVIS) and multilingual translation systems utilizing vector embeddings and retrieval-augmented generation (RAG) pipelines.
+- **Industrial & Enterprise ERP Solutions:** Engineered management systems for industrial manufacturing and supply chain tracking, ensuring clean separation of concerns and robust data validation.
+- **Software Engineering Fundamentals:** Solid grounding in algorithms, COCOMO II risk management, dynamic programming, and clean object-oriented architecture.
 
 ---
 

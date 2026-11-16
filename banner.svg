@@ -8,12 +8,12 @@
     <linearGradient id="ringGrad" x1="600" y1="90" x2="860" y2="350" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0284C7"/>
       <stop offset="50%" stop-color="#6366F1"/>
-      <stop offset="100%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#10B981"/>
     </linearGradient>
     <linearGradient id="accentLine" x1="40" y1="24" x2="920" y2="416" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0D9488"/>
       <stop offset="50%" stop-color="#3B82F6"/>
-      <stop offset="100%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#10B981"/>
     </linearGradient>
     <style>
       .domain { font: 700 11px 'Segoe UI', system-ui, sans-serif; fill: #0D9488; letter-spacing: 1.2px; }
@@ -35,33 +35,33 @@
 
   <!-- Top Domain & Right Label -->
   <text x="58" y="54" class="domain">SADAM-HUSSAIN-DEV.NETLIFY.APP</text>
-  <text x="640" y="54" class="tagRight">SENIOR ENGINEER • UI/UX ARCHITECT</text>
+  <text x="600" y="54" class="tagRight">FRONTEND • BACKEND • AI ENGINEER</text>
 
   <!-- Terminal Command Pill -->
-  <rect x="58" y="72" width="440" height="36" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
-  <text x="74" y="95" class="cmd">$ build --profile sadam-hussain-safi --role ui-ux</text>
+  <rect x="58" y="72" width="460" height="36" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="74" y="95" class="cmd">$ build --stack frontend --backend --ai-engineer</text>
 
   <!-- Name, Title & Subtitles -->
   <text x="58" y="156" class="name">Sadam Hussain Safi</text>
-  <text x="58" y="186" class="role">Senior Software Engineer &amp; UI/UX Developer</text>
+  <text x="58" y="186" class="role">Frontend Developer, Backend Developer &amp; AI Engineer</text>
   <text x="58" y="212" class="meta">Founder &amp; CEO at Aria Tech Solutions  |  Lahore, Pakistan</text>
-  <text x="58" y="234" class="meta">Full-Stack Architecture  •  Enterprise ERP  •  Cross-Platform Apps</text>
-  <text x="58" y="256" class="meta">Design systems, high-craft interfaces &amp; scalable software</text>
+  <text x="58" y="234" class="meta">Full-Stack Systems  •  Neural Machine Translation  •  Enterprise ERP</text>
+  <text x="58" y="256" class="meta">Building scalable backends, robust frontends &amp; AI-driven agents</text>
 
   <!-- Row 1 Skill Pills -->
-  <rect x="58" y="274" width="68" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="92" y="290" text-anchor="middle" class="pillText">React</text>
-  <rect x="134" y="274" width="84" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="176" y="290" text-anchor="middle" class="pillText">TypeScript</text>
-  <rect x="226" y="274" width="68" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="260" y="290" text-anchor="middle" class="pillText">Flutter</text>
-  <rect x="302" y="274" width="68" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="336" y="290" text-anchor="middle" class="pillText">UI/UX</text>
-  <rect x="378" y="274" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="416" y="290" text-anchor="middle" class="pillText">Node.js</text>
-  <rect x="462" y="274" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="498" y="290" text-anchor="middle" class="pillText">Python</text>
+  <rect x="58" y="274" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="96" y="290" text-anchor="middle" class="pillText">React / Next</text>
+  <rect x="142" y="274" width="84" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="184" y="290" text-anchor="middle" class="pillText">TypeScript</text>
+  <rect x="234" y="274" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="272" y="290" text-anchor="middle" class="pillText">Node.js</text>
+  <rect x="318" y="274" width="80" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="358" y="290" text-anchor="middle" class="pillText">Express</text>
+  <rect x="406" y="274" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="442" y="290" text-anchor="middle" class="pillText">Python</text>
+  <rect x="486" y="274" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="522" y="290" text-anchor="middle" class="pillText">SQLite</text>
 
   <!-- Row 2 Skill Pills -->
-  <rect x="58" y="306" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="96" y="322" text-anchor="middle" class="pillText">Next.js</text>
-  <rect x="142" y="306" width="68" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="176" y="322" text-anchor="middle" class="pillText">Figma</text>
-  <rect x="218" y="306" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="254" y="322" text-anchor="middle" class="pillText">SQLite</text>
-  <rect x="298" y="306" width="96" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="346" y="322" text-anchor="middle" class="pillText">ERP Systems</text>
-  <rect x="402" y="306" width="64" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="434" y="322" text-anchor="middle" class="pillText">SEO</text>
+  <rect x="58" y="306" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="94" y="322" text-anchor="middle" class="pillText">Flutter</text>
+  <rect x="138" y="306" width="94" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="185" y="322" text-anchor="middle" class="pillText">AI Agents</text>
+  <rect x="240" y="306" width="120" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="300" y="322" text-anchor="middle" class="pillText">Transformers</text>
+  <rect x="368" y="306" width="92" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="414" y="322" text-anchor="middle" class="pillText">REST APIs</text>
+  <rect x="468" y="306" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="504" y="322" text-anchor="middle" class="pillText">Git / CI</text>
 
   <!-- Footer Links -->
   <text x="58" y="362" class="footerLabel">PORTFOLIO:</text>
@@ -69,16 +69,16 @@
   <text x="58" y="382" class="footerLabel">CONTACT:</text>
   <text x="120" y="382" class="footerVal">2021se48@student.uet.edu.pk  |  GitHub: @sadam-hussain-safi</text>
 
-  <!-- Right Circular Portrait Ring & Stylized Developer Emblem -->
+  <!-- Right Circular Portrait Ring & Tech Emblem -->
   <circle cx="745" cy="215" r="126" fill="url(#ringGrad)" opacity="0.18"/>
   <circle cx="745" cy="215" r="114" fill="#FFFFFF" stroke="url(#ringGrad)" stroke-width="4"/>
   <circle cx="745" cy="215" r="102" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
 
-  <!-- Geometric Developer Silhouette inside Circle -->
+  <!-- Geometric AI & Code Silhouette inside Circle -->
   <circle cx="745" cy="182" r="30" fill="#0F172A"/>
   <path d="M685 276C685 242 711 222 745 222C779 222 805 242 805 276" fill="#0F172A"/>
-  <path d="M726 226L745 256L764 226" fill="#0284C7"/>
-  <text x="745" y="138" text-anchor="middle" class="ascii">&lt;UI/UX &amp; CODE /&gt;</text>
+  <path d="M720 220L745 250L770 220" fill="#10B981"/>
+  <text x="745" y="138" text-anchor="middle" class="ascii">&lt;AI &amp; BACKEND /&gt;</text>
 
-  <text x="745" y="368" text-anchor="middle" class="tagRight">FULL-STACK • DESIGN • ARCHITECTURE</text>
+  <text x="745" y="368" text-anchor="middle" class="tagRight">FRONTEND • BACKEND • AI</text>
 </svg>
