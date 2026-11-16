@@ -37,3 +37,14 @@ Senior Software Engineer, UI/UX Developer, and Founder & CEO at **Aria Tech Solu
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadam-hussain-safi&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+### 🐍 Live Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadam-hussain-safi/sadam-hussain-safi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadam-hussain-safi/sadam-hussain-safi/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sadam-hussain-safi/sadam-hussain-safi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
