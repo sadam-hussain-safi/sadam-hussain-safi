@@ -48,3 +48,9 @@ Senior Software Engineer, UI/UX Developer, and Founder & CEO at **Aria Tech Solu
     <img alt="github-snake" src="https://raw.githubusercontent.com/sadam-hussain-safi/sadam-hussain-safi/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+---
+
+### ⚡ Recent Engineering Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
