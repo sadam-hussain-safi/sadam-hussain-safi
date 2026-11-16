@@ -1,4 +1,4 @@
-﻿<svg width="960" height="440" viewBox="0 0 960 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+﻿<svg width="960" height="440" viewBox="0 0 960 440" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="960" y2="440" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFFFFF"/>
@@ -15,6 +15,12 @@
       <stop offset="50%" stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#F97316"/>
     </linearGradient>
+    
+    <!-- Circular Clipping Mask for Your Photo -->
+    <clipPath id="photoClip">
+      <circle cx="745" cy="215" r="105"/>
+    </clipPath>
+
     <style>
       .domain { font: 700 11px 'Segoe UI', system-ui, sans-serif; fill: #0284C7; letter-spacing: 1.2px; }
       .tagRight { font: 700 10px 'Segoe UI', system-ui, sans-serif; fill: #64748B; letter-spacing: 1px; }
@@ -34,7 +40,7 @@
 
   <!-- Top Domain & Label -->
   <text x="58" y="52" class="domain">SADAM-HUSSAIN-SAFI.GITHUB.IO</text>
-  <text x="575" y="52" class="tagRight">PROFILE IMAGE: NO-BG CUTOUT BUILD</text>
+  <text x="545" y="52" class="tagRight">VERIFIED PORTRAIT • ELECTRIC DESIGN</text>
 
   <!-- Terminal Command Box -->
   <rect x="58" y="70" width="410" height="36" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
@@ -46,7 +52,7 @@
   <text x="58" y="210" class="meta">Lahore, Pakistan  |  Founder &amp; CEO at Aria Tech Solutions</text>
   <text x="58" y="232" class="meta">Full-stack web systems, REST APIs, AI models &amp; robust architectures</text>
 
-  <!-- Skill Pill Badges (Frontend, Backend, AI, etc.) -->
+  <!-- Skill Pill Badges -->
   <rect x="58" y="254" width="78" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="97" y="270" text-anchor="middle" class="pillText">Frontend</text>
   <rect x="142" y="254" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="180" y="270" text-anchor="middle" class="pillText">Backend</text>
   <rect x="224" y="254" width="92" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="270" y="270" text-anchor="middle" class="pillText">AI Engineer</text>
@@ -58,7 +64,7 @@
   <rect x="138" y="286" width="78" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="177" y="302" text-anchor="middle" class="pillText">Next.js</text>
   <rect x="222" y="286" width="74" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="259" y="302" text-anchor="middle" class="pillText">Flutter</text>
   <rect x="302" y="286" width="90" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="347" y="302" text-anchor="middle" class="pillText">Transformers</text>
-  <rect x="398" y="286" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="434" y="302" text-anchor="middle" class="pillText">SQLite</text>
+  <rect x="402" y="286" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#94A3B8"/><text x="438" y="302" text-anchor="middle" class="pillText">SQLite</text>
 
   <!-- Footer Links & Socials -->
   <text x="58" y="354" class="footerLabel">PORTFOLIO:</text>
@@ -67,14 +73,12 @@
   <text x="58" y="380" class="footerLabel">SOCIAL:</text>
   <text x="120" y="380" class="footerVal">LinkedIn / GitHub / X @sadam-hussain-safi</text>
 
-  <!-- Right Side Transparent Portrait Ring & Cutout Silhouette -->
-  <circle cx="745" cy="215" r="126" fill="url(#ringGrad)" opacity="0.15"/>
-  <circle cx="745" cy="215" r="114" fill="#FFFFFF" stroke="url(#ringGrad)" stroke-width="3"/>
-  <circle cx="745" cy="215" r="102" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-
-  <!-- Stylized Cutout Silhouette Header -->
-  <circle cx="745" cy="180" r="32" fill="#0F172A"/>
-  <path d="M685 278C685 242 712 222 745 222C778 222 805 242 805 278" fill="#0F172A"/>
+  <!-- Right Side Glowing Electric Ring & Embedded Original Portrait Photo -->
+  <circle cx="745" cy="215" r="122" fill="url(#ringGrad)" opacity="0.2"/>
+  <circle cx="745" cy="215" r="112" fill="#FFFFFF" stroke="url(#ringGrad)" stroke-width="4"/>
   
-  <text x="745" y="364" text-anchor="middle" class="tagRight">TRANSPARENT PORTRAIT • SVG READY</text>
+  <!-- Your Original Photo Clipped to Circle (Looking for profile.jpg or profile.png) -->
+  <image x="635" y="105" width="220" height="220" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)" xlink:href="./profile.jpg" />
+  
+  <text x="745" y="364" text-anchor="middle" class="tagRight">SADAM HUSSAIN SAFI • VERIFIED</text>
 </svg>
